@@ -283,7 +283,7 @@ export default function Home() {
         <div className="container px-4 mx-auto">
           <div className="flex flex-wrap justify-center gap-6 mb-8">
             <SocialIcon icon={<Github />} href="https://github.com/yawarbhat" label="GitHub" />
-            <SocialIcon icon={<Linkedin />} href="https://linkedin.com/in/yawarbhat" label="LinkedIn" />
+            <SocialIcon icon={<Linkedin />} href="https://linkedin.com/in/yawar-hussain-bhat" label="LinkedIn" />
             <SocialIcon icon={<Mail />} href="mailto:yawarbhat1005@gmail.com" label="Email" />
           </div>
           <div className="text-center text-gray-500 text-sm">

@@ -282,7 +282,7 @@ export default function Home() {
       <footer className="py-12 bg-gradient-to-t from-gray-900 to-black">
         <div className="container px-4 mx-auto">
           <div className="flex flex-wrap justify-center gap-6 mb-8">
-            <SocialIcon icon={<Github />} href="https://github.com/yawarbhat" label="GitHub" />
+            <SocialIcon icon={<Github />} href="https://github.com/yawar-dev" label="GitHub" />
             <SocialIcon icon={<Linkedin />} href="https://linkedin.com/in/yawar-hussain-bhat" label="LinkedIn" />
             <SocialIcon icon={<Mail />} href="mailto:yawarbhat1005@gmail.com" label="Email" />
           </div>
